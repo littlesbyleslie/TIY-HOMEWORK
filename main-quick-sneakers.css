@@ -1,0 +1,94 @@
+.logo {
+  height: 15px;
+  width: 25px;
+}
+
+a {
+  text-decoration: none;
+  font-family:sans-serif;
+  font-size:12px;
+}
+
+.section-1 {
+  background-color:#ff751a;
+  color:white;
+  font-family: ‘Raleway’, sans-serif;
+  text-align:left;
+}
+
+.shoe-1 {
+  height: 250px;
+  width: 400px;
+}
+
+body {
+  display:block;
+  padding-left:100px;
+  padding-right:100px;
+}
+
+/*p {
+  border:1px solid black;
+}*/
+
+
+/*The below text shows how you can manipulate the size in/around tagged elements*/
+/*div {
+ border:1px dotted black;
+ width:500px;
+ height:400px;
+ padding-top:60px;
+ padding-left:30px
+ margin-left:40px;
+}*/
+
+h1 {
+  font-size:26px;
+  font-family:sans-serif;
+  color:white;
+}
+
+
+.section-1 h5 {
+  color:blue;
+  font-variant:small-caps;
+  font-family:sans-serif;
+}
+.section-1 .p-1 {
+  font-size:13px;
+  font-family:sans-serif;
+  line-height:1.75;
+  color:white;
+}
+.section-1 .p-2 {
+  font-size:22px;
+  font-family:sans-serif;
+  line-height:1.75;
+  color:white;
+}
+.section-2 {
+  font-family:sans-serif;
+}
+.section-2 p {
+  font-size:12px;
+}
+.section-3 h5 {
+  font-family:sans-serif;
+  background-color:#ffe0cc;
+}
+.section-3 {
+  background-color:#ff751a;
+  width:700px;
+}
+.section-4 {
+  background-color:#ff751a;
+}
+.section-4 p {
+  font-family:sans-serif;
+  color:white;
+}
+footer {
+  font-family:sans-serif;
+  font-size:10px;
+  color:gray;
+}
