@@ -16,17 +16,21 @@ a {
   text-align:left;
 }
 
+
 .shoe-1 {
   height: 250px;
   width: 400px;
 }
 
-body {
+/*body {
   display:block;
   padding-left:100px;
   padding-right:100px;
-}
+}*/
 
+/*body {
+  margin:0 auto;
+}*/
 /*p {
   border:1px solid black;
 }*/
@@ -46,6 +50,7 @@ h1 {
   font-size:26px;
   font-family:sans-serif;
   color:white;
+  margin: 0 auto;
 }
 
 
