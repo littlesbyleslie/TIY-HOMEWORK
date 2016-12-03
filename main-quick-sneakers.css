@@ -87,9 +87,10 @@ nav a {
 .section-1-left-container {
   /*padding-top:20px;*/
 }
-
+.quick-sneakers {
+  margin-bottom:0px;
+}
 .spring-summer {
-  /*padding-top:5px;*/
   font-size:9px;
   font-weight:lighter;
   color:#aa0b31;
